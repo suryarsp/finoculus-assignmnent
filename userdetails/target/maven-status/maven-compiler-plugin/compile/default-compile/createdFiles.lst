@@ -1,0 +1,7 @@
+com\details\model\FileModel.class
+com\details\controller\LoginController.class
+com\details\model\Userinfo.class
+com\details\dao\FileDAOImpl.class
+com\details\dao\FileDAO.class
+com\details\dao\UserDAO.class
+com\details\dao\UserDAOImpl.class
